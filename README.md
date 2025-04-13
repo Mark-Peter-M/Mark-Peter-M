@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full-stack Development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Front-end development projects
-- 📫 How to reach me: Phone |+254705328844| Email |Maluumark7@gmail.com|Markmaluu100@gmail.com
+- 📫 How to reach me: Phone |+254705328844| Email |Maluumark7@gmail.com
 
 <!---
 Mark-Peter-M/Mark-Peter-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
