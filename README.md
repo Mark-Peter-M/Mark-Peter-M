@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mark Peter
-- 👀 I’m interested in Full-stack Development
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Front-end development projects
+- 👀 I’m a Data Analyst
+- 🌱 I’m currently working on a Covid Statistics project
+- 💞️ I’ll be sharing with you everything i've learned
 - 📫 How to reach me: Phone |+254705328844| Email |Maluumark7@gmail.com
 
 <!---
