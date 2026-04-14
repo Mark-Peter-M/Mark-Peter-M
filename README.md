@@ -6,7 +6,7 @@ I enjoy working with raw datasets, cleaning messy data, and turning numbers into
 ---
 
 ## 🧠 What I’m currently working on
-- Exploring real-world datasets (COVID, business, logistics)
+- Exploring real-world datasets (Business, Logistics)
 - Writing clean and efficient SQL queries
 - Learning data modeling, analytics, and best practices
 - Building projects that reflect real production scenarios
