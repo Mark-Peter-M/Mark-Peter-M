@@ -23,15 +23,14 @@ I enjoy working with raw datasets, cleaning messy data, and turning numbers into
 ---
 
 ## 📊 Featured Projects
-- 🦠 **COVID-19 Data Exploration (SQL)**
-  - Data cleaning, schema design, and analytics queries
-  - Metrics like death rate, infection rate, rolling averages
-
 - 📦 **Logistics & Delivery Data (SQL / Business Analysis)**
   - Order tracking
   - Performance metrics
   - Real-world datasets
-
+    
+- 🦠 **COVID-19 Data Exploration (SQL)**
+  - Data cleaning, schema design, and analytics queries
+  - Metrics like death rate, infection rate, rolling averages
 *(More projects coming as I build and refine)*
 
 ---
